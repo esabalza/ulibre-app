@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LogRegForm</string>
+    <string name="usernameReg">Usuario</string>
+    <string name="emailReg">Correo</string>
+    <string name="passwordReg">Contraseña</string>
+    <string name="sign_upReg">Registro</string>
+    <string name="sign_inLog">Iniciar sesion</string>
+    <string name="signin_redirect">¿Ya eres miembro?</string>
+    <string name="forgot_password">Olvidaste la contraseña?</string>
+    <string name="signup_redirect">¿No tienes una cuenta? ¡Regístrate aquí!</string>
+
+
+</resources>
