@@ -32,7 +32,7 @@ public class SplashScrActivity extends AppCompatActivity {
                 finish();
                 startActivity(new Intent(SplashScrActivity.this, RegistrationActivity.class));
             }
-        }, 1000);
+        }, 1500);
 
     }
 
